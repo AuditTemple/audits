@@ -34,7 +34,7 @@ If you're looking to get a security audit or need any security related support, 
 
 # The Auditors
 
-[Bogomil a.k.a b0g0](https://github.com/BogoCvetkov/portfolio) - is an auditor with proven track record of consistently uncovering vulnerabilities in wide spectrum of DeFi protocols. Winnner of 2 competitions and multiple top5/top10 finishes. Security Researcher at the renowned security firm [Paladin](https://paladinsec.co/) and Web3 Security Adviser to Sillicon Valley tech-company - [Octane Security](https://www.octane.security/). Previously worked for 2.5 years as a lead developer in Bulgarias second largest blockchain company - [Limechain](https://limechain.tech/).
+[Bogomil (a.k.a b0g0)](https://github.com/BogoCvetkov/portfolio) - is an auditor with proven track record of consistently uncovering vulnerabilities in wide spectrum of DeFi protocols. Winnner of 2 competitions and multiple top5/top10 finishes. Security Researcher at the renowned security firm [Paladin](https://paladinsec.co/) and Web3 Security Adviser to Sillicon Valley tech-company - [Octane Security](https://www.octane.security/). Previously worked for 2.5 years as a lead developer in Bulgarias second largest blockchain company - [Limechain](https://limechain.tech/).
 
 
 ilchovsky is bla bla
