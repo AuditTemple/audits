@@ -296,4 +296,4 @@ Manual review and Foundry for testing
 Apply the described fixes for each example
 
 ## Assessed type
-Othe
+Other
