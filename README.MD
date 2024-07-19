@@ -1,7 +1,11 @@
 # About [BRAND-NAME]
 
+We are a duo of experienced smart contract security researchers. Having audited 20+ protocols, won multiple competitions, and ranked in the top spots of many others, we've built solid, battle-tested expertise in various DeFi protocols, including lending, staking, DEXes, governance, cross-chain, Eigenlayer integrations (LRTs), SocialFi, and more.
+
+Having worked together for the past two years — initially as web3 developers and now as security researchers — we are a brilliantly organized team capable of delivering results efficiently and reliably on any assignment we undertake.
+
 # Contact us
-If you're looking to get a security audit or need any security related support, don't hesitate to contact us:
+If you're looking to get a security audit for your contracts or need any security related support, don't hesitate to contact us:
 - Twitter - [b0g0](https://x.com/xb0g0) / [ilchovski](https://x.com/ilchovski98)
 - Telegram - [b0g0](https://t.me/xb0g0) / [ilchovski](https://t.me/ilchovski)
 
@@ -9,18 +13,20 @@ If you're looking to get a security audit or need any security related support, 
 - **1st** place 🥇 on Revert Land contest
 - **1st** place 🥇 (second 🏆WIN🏆 in a ROW) on Revert Land Mitigation Review
 - **1st** place 🥇 on Thorchain contest
+- Rank **14th🏆** on Cantina All Time Leaderboard
+- Rank **21th🏆** on Code4Rena 90-day leaderboard (as of July 2024)
 - **8th** place 🏅🏅🏅 in History's BIGGEST Competition (Blast) - 573 participants / 1500+ submissions
-- Ranked **14th🏆** on Cantina All Time Leaderboard
 - Confirmed **Critical**💥 on Immunefi
 - **5th** place on JalaSwap contest
 - **9th** place on Renzo contest
 - **10th** place on DittoETH contest
 
-# Stats Summary
-- 20H 31M uncovered vulnerabilities
-- 19 audits
-- 3 times 1st finishes
-- 10 times ranked within 1-10th spots
+<!-- ### Stats Summary -->
+
+| Total Vulnerabilities Uncovered  | Audits Conducted  | Competitions WON | Ranked TOP10 
+| :------------ | :------------| :------------ | :------------ |
+|**20 High** **31 Medium** |**19** | **3** |**10**|
+
 
 # Our Work
 
@@ -50,4 +56,4 @@ If you're looking to get a security audit or need any security related support, 
 
 [Bogomil (a.k.a b0g0)](https://github.com/BogoCvetkov/portfolio) is an auditor with proven track record of consistently uncovering vulnerabilities in wide spectrum of DeFi protocols. Winnner of 2 competitions and multiple top5/top10 finishes. Security Researcher at the renowned security firm [Paladin](https://paladinsec.co/) and Web3 Security Adviser to Sillicon Valley tech-company - [Octane Security](https://www.octane.security/). Previously worked for 2.5 years as a lead developer in Bulgaria's second largest blockchain company - [Limechain](https://limechain.tech/).
 
-[Ilchovski](https://github.com/ilchovski98/portfolio) is an independent security researcher with great attention to detail that loves to break down complexity and offer easy practical solutions. As of date he is sitting at the 21th spot on the 90-day Code4rena leaderboard, secured multiple DeFi and Cross-Chain protocols and has multiple top 1-10 finishes in competative audits.
+[Ilchovski](https://github.com/ilchovski98/portfolio) is an independent security researcher with great attention to detail that loves to break down complexity and offer easy practical solutions. As of date he is sitting at the **21th** spot on the 90-day Code4rena leaderboard, secured multiple DeFi and Cross-Chain protocols and has multiple top 1-10 finishes in competative audits.
