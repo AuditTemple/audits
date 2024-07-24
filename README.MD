@@ -1,4 +1,4 @@
-# About [BRAND-NAME]
+# About us
 
 We are a duo of experienced smart contract security researchers. Having audited 20+ protocols, won multiple competitions, and ranked in the top spots of many others, we've built solid, battle-tested expertise in various DeFi protocols, including lending, staking, DEXes, governance, cross-chain, Eigenlayer integrations (LRTs), SocialFi, and more.
 
