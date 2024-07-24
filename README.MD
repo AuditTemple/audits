@@ -30,7 +30,7 @@ If you're looking to get a security audit for your contracts or need any securit
 
 # Our Work
 
-| Contest                                                                  | Platform  | Type of protocol              | Findings| Date | My report|Info                                                                                     |
+| Protocol                                                                  | Platform  | Type of protocol              | Findings| Date | My report|Info                                                                                     |
 | :----------------------------------------------------------------------- | :-------- | :---------------------------- | :------------------------- |--- |:--------------------------------------------------------------------------------------------- |-------------------------| 
 | [The Wildcat Protocol](https://code4rena.com/audits/2023-10-the-wildcat-protocol#top)  | Code4rena  | Lending              | 1M  | 10.2023             | [Open](./audits/contests/Code4rena/WildCat.md)| 
 | [NextGen](https://code4rena.com/audits/2023-10-nextgen#top)  | Code4rena  | NFT              | 1H  | 11.2023             | [Open](./audits/contests/Code4rena/NextGen.md)| 
