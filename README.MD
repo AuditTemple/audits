@@ -25,7 +25,7 @@ If you're looking to get a security audit for your contracts or need any securit
 
 | Total Vulnerabilities Uncovered  | Audits Conducted  | Competitions WON | Ranked TOP10 
 | :------------ | :------------| :------------ | :------------ |
-|**20 High** **31 Medium** |**19** | **3** |**10**|
+|**21 High** **34 Medium** |**20** | **3** |**10**|
 
 
 # Our Work
@@ -50,7 +50,8 @@ If you're looking to get a security audit for your contracts or need any securit
 | [Munchables](https://code4rena.com/audits/2024-05-munchables#top)  | Code4rena  | Game, Staking  | 1H  | 05.2024            | [Open](./audits/contests/Code4rena/Munchables.md) | 
 | [Alchemix](https://immunefi.com/boost/alchemix-boost/)  | Immunefi  | Upgradeability, Staking, Borrowing  | 1 Critical  | 05.2024            | [Open](./audits/contests/Immunefi/Alchemix.MD) | Found a **Critical** 💥
 | [YoLo games](https://cantina.xyz/competitions/a2c3cc6a-e384-495f-9751-5d7e657bc219)  | Cantina  | GameFi, Staking  | 2M  | 06.2024            | Private Report | Ranked **9th** ⭐️
-| [Thorchain](https://code4rena.com/audits/2024-06-thorchain#top)  | Code4rena  | DEX  | 2H 1M  | 06.2024            | Coming Soon | Ranked **1st** 🥇
+| [Thorchain](https://code4rena.com/audits/2024-06-thorchain#top)  | Code4rena  | DEX  | 2H 1M  | 06.2024            | [Open](./audits/contests/Code4rena/Thorchain.md) | Ranked **1st** 🥇
+| [Size](https://code4rena.com/audits/2024-06-size#top)  | Code4rena  | Lending, Order book  | 1H 3M  | 07.2024            | [Open](./audits/contests/Code4rena/Size.md) |
 
 # Our Team
 
